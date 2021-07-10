@@ -1,0 +1,3 @@
+rootProject.name = "AppLauncher"
+include ':app'
+include ':app:InstallApp'
